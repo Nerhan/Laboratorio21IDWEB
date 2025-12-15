@@ -1,0 +1,32 @@
+[
+  {
+    "Nombre": "Real Madrid",
+    "País": "España",
+    "nivelAtaque": 92,
+    "nivelDefensa": 88
+  },
+  {
+    "Nombre": "Barcelona",
+    "País": "España",
+    "nivelAtaque": 90,
+    "nivelDefensa": 85
+  },
+  {
+    "Nombre": "Bayern Munich",
+    "País": "Alemania",
+    "nivelAtaque": 91,
+    "nivelDefensa": 89
+  },
+  {
+    "Nombre": "Manchester City",
+    "País": "Inglaterra",
+    "nivelAtaque": 93,
+    "nivelDefensa": 87
+  },
+  {
+    "Nombre": "Melgar",
+    "País": "Perú",
+    "nivelAtaque": 100,
+    "nivelDefensa": 100
+  }
+]
